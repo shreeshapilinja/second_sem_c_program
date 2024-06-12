@@ -1,0 +1,53 @@
+           1 simple
+add-2-nums
+area-of-circle
+ASCII-value
+Fahrenheit-to-Celsius
+greatest-among-three-integers-using-conditional-operator
+perimeter-of-circle
+product-of-2-nums
+swap-2-nos-using-3rd-variable
+
+            2 if statement
+entered-is-positive-or-negative
+odd-or-even
+x-is-greater-or-less-or-equal-to-y
+x-is-less-than-y
+
+            3 if else
+he-is-eligible-for-vote-or-not
+odd-or-even
+
+           4 nested if else
+biggest-of-three-integers
+
+         5 cascade if else
+percentage-of-marks
+
+         6 switch 
+entered-character-is-a-vowel-or-not
+print-week-days-based-on-day-nos
+
+         7 while 
+find-LCM-and-GCD-of-two-integers
+sum-of-the-first-n-nos
+
+        8 do while
+find-LCM-and-GCD-of-two-integers
+sum-of-the-first-n-nos
+
+        9 for loop
+Fibonacci-number
+find-factorial-of-given-integer
+sum-using-for
+
+        10 nested and imp
+binomial-co-efficient-or-to-plot-Pascal’s-triangle
+patern-as-right-angle-tria
+plot-below-triangle-1
+plot-below-triangle-2
+plot-below-triangle-3
+
+        11 unconditional
+continue-eg1
+goto-eg1
